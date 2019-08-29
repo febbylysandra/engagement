@@ -1,0 +1,22 @@
+{
+  "name": "engagement-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/febbylysandra/engagement.git"
+  },
+  "author": "Febby Lysandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/febbylysandra/engagement/issues"
+  },
+  "homepage": "https://github.com/febbylysandra/engagement#readme",
+  "dependencies": {
+    "firebase-tools": "^7.3.0"
+  }
+}
